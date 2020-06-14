@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-VideoApplication<cqrs-example>",
+      "request": "launch",
+      "mainClass": "example.VideoApplication",
+      "projectName": "cqrs-example"
+    }
+  ]
+}
